@@ -1,0 +1,5 @@
+enchanting_table.png
+furnace.png
+
+removed due to 1.9
+inventory.png
