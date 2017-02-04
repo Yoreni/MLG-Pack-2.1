@@ -107,12 +107,6 @@
       "blank"
     ]
   },
-  "entity.player.small_fall": {
-    "replace": true,
-    "sounds": [
-      "records/blocks"
-    ]
-  },
   "entity.player.death": {
     "category": "player",
     "replace": true,
