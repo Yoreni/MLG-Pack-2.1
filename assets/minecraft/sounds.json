@@ -185,6 +185,16 @@
       }
     ]
   },
+  "block.stone.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.stone.place",
+        "volume": 100.0,
+		"type": "event"
+      }
+    ]
+  },
   "block.anvil.fall": {
     "replace": true,
     "sounds": [
@@ -298,6 +308,16 @@
       }
     ]
   },
+  "block.glass.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.glass.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
   "block.metal.step": {
     "replace": true,
     "sounds": [
@@ -340,6 +360,16 @@
 	  {
         "name": "fortress/footsteps/metalbox_run10",
         "volume": 4.0
+      }
+    ]
+  },
+  "block.metal.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.metal.place",
+        "volume": 8.0,
+		"type": "event"
       }
     ]
   },
@@ -392,6 +422,16 @@
       }
     ]
   },
+  "block.cloth.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.cloth.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
   "block.grass.step": {
     "replace": true,
     "sounds": [
@@ -414,6 +454,16 @@
       {
         "name": "fortress/footsteps/grass_wander5",
         "volume": 1.0
+      }
+    ]
+  },
+  "block.grass.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.grass.place",
+        "volume": 8.0,
+		"type": "event"
       }
     ]
   },
@@ -466,6 +516,16 @@
       }
     ]
   },
+  "block.gravel.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.gravel.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
   "block.sand.step": {
     "replace": true,
     "sounds": [
@@ -515,6 +575,16 @@
       }
     ]
   },
+  "block.sand.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.sand.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
   "block.snow.step": {
     "replace": true,
     "sounds": [
@@ -561,6 +631,16 @@
 	  {
         "name": "fortress/footsteps/snow_walk11",
         "volume": 1.0
+      }
+    ]
+  },
+  "block.snow.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.snow.place",
+        "volume": 8.0,
+		"type": "event"
       }
     ]
   },
@@ -667,6 +747,16 @@
         "volume": 2.0
       }
 	]
+  },
+  "block.wood.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.wood.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
   },
   "welcome": {
     "sounds": [
