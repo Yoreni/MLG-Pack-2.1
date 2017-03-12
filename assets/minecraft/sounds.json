@@ -74,34 +74,104 @@
       "fortress/longfall_land_03"
     ]
   },
-  "fortress.jail": {
-    "sounds": [
-	  "fortress/jail"
-	]
-  },
-  "fortress.small_fall": {
-    "sounds": [
-      "fortress/fallsmall"
-    ]
-  },
-  "fortress.big_fall": {
+  "fortress.falldamage": {
     "sounds": [
       "fortress/fallbig"
     ]
   },
-  "entity.player.small_fall": {
+  "entity.player.big_fall": {
     "replace": true,
     "sounds": [
-      "blank"
+      {
+        "name": "fortress/fallsmall",
+        "volume": 8.0
+      }
     ]
   },
-  "entity.player.big_fall": {
+  "fortress.roblox": {
+    "sounds": [
+      "fortress/robloxdeathsoundmono"
+    ]
+  },
+  "entity.player.hurt": {
     "replace": true,
     "sounds": [
       "blank"
     ]
   },
   "block.enderchest.close": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.11": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.13": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.blocks": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.cat": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.chirp": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.far": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.mall": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.mellohi": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.stal": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.strad": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.wait": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.ward": {
     "replace": true,
     "sounds": [
       "blank"
@@ -121,7 +191,8 @@
 	  "death/AnEndingShortVersion",
 	  "death/TimeWithdrawals",
 	  "death/bye",
-	  "death/death9"
+	  "death/death9",
+	  "death/death15"
     ]
   },
   "entity.arrow.shoot": {
