@@ -54,6 +54,45 @@
       }
     ]
   },
+  "fortress.transporter": {
+    "category": "player",
+    "sounds": [
+	  {
+        "name": "fortress/transporter2",
+        "stream": true
+      },
+	  {
+        "name": "fortress/transporter3",
+        "stream": true
+      },
+	  {
+        "name": "fortress/transporter4",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.transporter_long": {
+    "category": "player",
+    "sounds": [
+	  {
+        "name": "fortress/transporter_long",
+        "stream": true
+      },
+	  {
+        "name": "fortress/transporter_long2",
+        "stream": true
+      },
+	  {
+        "name": "fortress/transporter_long3",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.transporter_finish": {
+    "sounds": [
+      "fortress/transporter_finish"
+    ]
+  },
   "fortress.elimination": {
     "category": "player",
     "sounds": [
