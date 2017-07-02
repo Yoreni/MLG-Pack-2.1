@@ -132,6 +132,16 @@
       "fortress/robloxdeathsoundmono"
     ]
   },
+  "fortress.shieldhitself": {
+    "sounds": [
+      "fortress/shieldhitself"
+    ]
+  },
+  "fortress.shieldhit": {
+    "sounds": [
+      "fortress/shieldhit"
+    ]
+  },
   "entity.player.hurt": {
     "replace": true,
     "sounds": [
