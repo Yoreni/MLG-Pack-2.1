@@ -25,6 +25,24 @@
       }
     ]
   },
+  "fortress.shieldbroken": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "fortress/shieldbroken",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.shieldbootingup": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "fortress/shieldbootingup",
+        "stream": true
+      }
+    ]
+  },
   "fortress.death": {
     "category": "player",
     "sounds": [
