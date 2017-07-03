@@ -43,6 +43,15 @@
       }
     ]
   },
+  "fortress.shieldoffline": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "fortress/shieldoffline",
+        "stream": true
+      }
+    ]
+  },
   "fortress.death": {
     "category": "player",
     "sounds": [
