@@ -25,6 +25,33 @@
       }
     ]
   },
+  "fortress.shieldbroken": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "fortress/shieldbroken",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.shieldbootingup": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "fortress/shieldbootingup",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.shieldoffline": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "fortress/shieldoffline",
+        "stream": true
+      }
+    ]
+  },
   "fortress.death": {
     "category": "player",
     "sounds": [
@@ -141,6 +168,14 @@
         "name": "random/classic_hurt",
         "stream": true
       }
+  "fortress.shieldhitself": {
+    "sounds": [
+      "fortress/shieldhitself"
+    ]
+  },
+  "fortress.shieldhit": {
+    "sounds": [
+      "fortress/shieldhit"
     ]
   },
   "entity.player.hurt": {
