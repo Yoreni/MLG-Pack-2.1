@@ -115,7 +115,10 @@
   },
   "fortress.falldamage": {
     "sounds": [
-      "fortress/fallbig"
+	  {
+        "name": "fortress/fallbig",
+        "stream": true
+      }
     ]
   },
   "entity.player.big_fall": {
@@ -130,6 +133,14 @@
   "fortress.roblox": {
     "sounds": [
       "fortress/robloxdeathsoundmono"
+    ]
+  },
+  "fortress.classic_hurt": {
+    "sounds": [
+	  {
+        "name": "random/classic_hurt",
+        "stream": true
+      }
     ]
   },
   "entity.player.hurt": {
