@@ -168,6 +168,8 @@
         "name": "random/classic_hurt",
         "stream": true
       }
+    ]
+  },
   "fortress.shieldhitself": {
     "sounds": [
       "fortress/shieldhitself"
