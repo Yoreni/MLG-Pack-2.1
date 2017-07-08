@@ -175,9 +175,9 @@
       "fortress/shieldhitself"
     ]
   },
-  "fortress.shieldhit": {
+  "fortress.lowshieldhitself": {
     "sounds": [
-      "fortress/shieldhit"
+      "fortress/lowshieldhitself"
     ]
   },
   "entity.player.hurt": {
