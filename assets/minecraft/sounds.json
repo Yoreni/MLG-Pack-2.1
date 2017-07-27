@@ -336,14 +336,6 @@
       }
     ]
   },
-  "music.mall.smilesandjokes": {
-    "sounds": [
-	  {
-        "name": "music/mall/smilesandjokes",
-        "stream": true
-      }
-    ]
-  },
   "music.mall.startrekthemepausecafe": {
     "sounds": [
 	  {
