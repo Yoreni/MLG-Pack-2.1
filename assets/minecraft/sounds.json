@@ -264,6 +264,126 @@
       "blank"
     ]
   },
+  "music.mall.banjokazooiepausethemechiptunecover": {
+    "sounds": [
+	  {
+        "name": "music/mall/banjokazooiepausethemechiptunecover",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.friendlyshoptheme": {
+    "sounds": [
+	  {
+        "name": "music/mall/friendlyshoptheme",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.jenka1": {
+    "sounds": [
+	  {
+        "name": "music/mall/jenka1",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.memedrops": {
+    "sounds": [
+	  {
+        "name": "music/mall/memedrops",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.pokemoncenterpianosolol": {
+    "sounds": [
+	  {
+        "name": "music/mall/pokemoncenterpianosolol",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.pokemoncenterthemeorchestrated": {
+    "sounds": [
+	  {
+        "name": "music/mall/pokemoncenterthemeorchestrated",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.roboplanetpause": {
+    "sounds": [
+	  {
+        "name": "music/mall/roboplanetpause",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.shopthemecover": {
+    "sounds": [
+	  {
+        "name": "music/mall/shopthemecover",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.skrillevapor": {
+    "sounds": [
+	  {
+        "name": "music/mall/skrillevapor",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.smilesandjokes": {
+    "sounds": [
+	  {
+        "name": "music/mall/smilesandjokes",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.startrekthemepausecafe": {
+    "sounds": [
+	  {
+        "name": "music/mall/startrekthemepausecafe",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.unusedupgradestation": {
+    "sounds": [
+	  {
+        "name": "music/mall/unusedupgradestation",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.wiishopchiptune": {
+    "sounds": [
+	  {
+        "name": "music/mall/wiishopchiptune",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.wiishopthemejazzcover": {
+    "sounds": [
+	  {
+        "name": "music/mall/wiishopthemejazzcover",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.wiishopthing": {
+    "sounds": [
+	  {
+        "name": "music/mall/wiishopthing",
+        "stream": true
+      }
+    ]
+  },
   "entity.player.death": {
     "category": "player",
     "replace": true,
