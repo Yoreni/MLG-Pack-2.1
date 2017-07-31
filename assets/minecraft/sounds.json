@@ -264,10 +264,18 @@
       "blank"
     ]
   },
-  "music.mall.banjokazooiepausethemechiptunecover": {
+  "music.mall.kahootlobbymusic": {
     "sounds": [
 	  {
-        "name": "music/mall/banjokazooiepausethemechiptunecover",
+        "name": "music/mall/kahootlobbymusic",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.animallobbyextended": {
+    "sounds": [
+	  {
+        "name": "music/mall/animallobbyextended",
         "stream": true
       }
     ]
