@@ -296,14 +296,6 @@
       }
     ]
   },
-  "music.mall.memedrops": {
-    "sounds": [
-	  {
-        "name": "music/mall/memedrops",
-        "stream": true
-      }
-    ]
-  },
   "music.mall.pokemoncenterpianosolol": {
     "sounds": [
 	  {
