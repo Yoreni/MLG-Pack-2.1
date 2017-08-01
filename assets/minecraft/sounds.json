@@ -368,6 +368,14 @@
       }
     ]
   },
+  "music.mall.yeoldetemmieshop": {
+    "sounds": [
+	  {
+        "name": "music/mall/yeoldetemmieshop",
+        "stream": true
+      }
+    ]
+  },
   "entity.player.death": {
     "category": "player",
     "replace": true,
