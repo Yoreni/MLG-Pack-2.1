@@ -336,14 +336,6 @@
       }
     ]
   },
-  "music.mall.startrekthemepausecafe": {
-    "sounds": [
-	  {
-        "name": "music/mall/startrekthemepausecafe",
-        "stream": true
-      }
-    ]
-  },
   "music.mall.unusedupgradestation": {
     "sounds": [
 	  {
