@@ -131,7 +131,7 @@
       }
     ]
   },
-  "fortress.portal.enter": {
+  "fortress.portal.exit": {
     "sounds": [
 	  {
         "name": "fortress/portal/portal_enter1",
@@ -139,18 +139,6 @@
       },
 	  {
         "name": "fortress/portal/portal_enter2",
-        "stream": true
-      }
-    ]
-  },
-  "fortress.portal.exit": {
-    "sounds": [
-	  {
-        "name": "fortress/portal/portal_exit1",
-        "stream": true
-      },
-	  {
-        "name": "fortress/portal/portal_exit2",
         "stream": true
       }
     ]
