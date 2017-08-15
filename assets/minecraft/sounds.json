@@ -115,6 +115,74 @@
       }
     ]
   },
+  "fortress.portal.open": {
+    "sounds": [
+	  {
+        "name": "fortress/portal/portal_open1",
+        "stream": true
+      },
+	  {
+        "name": "fortress/portal/portal_open2",
+        "stream": true
+      },
+	  {
+        "name": "fortress/portal/portal_open3",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.portal.enter": {
+    "sounds": [
+	  {
+        "name": "fortress/portal/portal_enter1",
+        "stream": true
+      },
+	  {
+        "name": "fortress/portal/portal_enter2",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.portal.exit": {
+    "sounds": [
+	  {
+        "name": "fortress/portal/portal_exit1",
+        "stream": true
+      },
+	  {
+        "name": "fortress/portal/portal_exit2",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.portal.invalid": {
+    "sounds": [
+	  {
+        "name": "fortress/portal/portal_invalid_surface",
+        "stream": true
+      },
+	  {
+        "name": "fortress/portal/portal_invalid_surface3",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.portal.blue": {
+    "sounds": [
+	  {
+        "name": "fortress/portal/portalgun_shoot_blue1",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.portal.orange": {
+    "sounds": [
+	  {
+        "name": "fortress/portal/portalgun_shoot_red1",
+        "stream": true
+      }
+    ]
+  },
   "fortress.transporter_finish": {
     "sounds": [
       "fortress/transporter_finish"
@@ -181,12 +249,6 @@
     ]
   },
   "entity.player.hurt": {
-    "replace": true,
-    "sounds": [
-      "blank"
-    ]
-  },
-  "block.enderchest.close": {
     "replace": true,
     "sounds": [
       "blank"
@@ -1032,6 +1094,38 @@
     "sounds": [
       {
         "name": "fortress/welcome",
+        "stream": true
+      }
+    ]
+  },
+  "xkitty.hello": {
+    "sounds": [
+      {
+        "name": "voice/xkitty/hello1",
+        "stream": true
+      }
+    ]
+  },
+  "tts.hello": {
+    "sounds": [
+      {
+        "name": "voice/tts/hello1",
+        "stream": true
+      }
+    ]
+  },
+  "tts.overhere": {
+    "sounds": [
+      {
+        "name": "voice/tts/overhere1",
+        "stream": true
+      }
+    ]
+  },
+  "tts.thanks": {
+    "sounds": [
+      {
+        "name": "voice/tts/thanks1",
         "stream": true
       }
     ]
