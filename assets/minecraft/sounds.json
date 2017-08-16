@@ -1,13 +1,4 @@
 {
-    "fortress.minediamonds": {
-    "category": "player",    
-    "sounds": [
-	  {
-        "name": "fortress/minediamonds",
-        "stream": true
-      }
-    ]
-  },
   "fortress.healthcanister": {
     "category": "player",
     "sounds": [
@@ -321,6 +312,14 @@
     "replace": true,
     "sounds": [
       "blank"
+    ]
+  },
+  "fortress.minediamonds": {
+    "sounds": [
+	  {
+        "name": "fortress/minediamonds",
+        "stream": true
+      }
     ]
   },
   "music.mall.kahootlobbymusic": {
