@@ -3,7 +3,7 @@
     "category": "player",    
     "sounds": [
 	  {
-        "name": "fortress/MineDiamonds",
+        "name": "fortress/minediamonds",
         "stream": true
       }
     ]
