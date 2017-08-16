@@ -1,4 +1,12 @@
 {
+"fortress.minediamonds": {
+    "sounds": [
+	  {
+        "name": "fortress/minediamonds",
+        "stream": true
+      }
+    ]
+  },
   "fortress.healthcanister": {
     "category": "player",
     "sounds": [
